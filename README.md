@@ -1,4 +1,5 @@
 # Major Events of World War I (1914–1919)
+[![License: PolyForm Noncommercial 1.0.0](https://shields.io)](https://polyformproject.org)
 
 This is a structured and educational timeline of the major events of World War I, built for students and anyone curious about history.
 
